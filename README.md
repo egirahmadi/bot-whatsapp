@@ -5,7 +5,9 @@ How to install the Whatsapp Bot easily using this script, this script can turn p
 
 2. Type the command below to install the bot script. git clone https://github.com/egirahmadi/bot-whatsapp
 
-3. Enter the script directory by typing the command below. cd wa-bot 
+3. Enter the script directory by typing the command below. 
+  
+   cd bot-whatsapp
 
 4. Type the command below and wait a few minutes to install the module. 
 
